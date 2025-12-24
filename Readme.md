@@ -99,8 +99,8 @@ Diffs are calculated using `diff.diffLines()` and colored using `chalk`.
 
 ## Demo
 
-### 1. Initialize Repository
+### 1. show commit logs
 ![show commit logs](images/log.png)
 
-### 2. Add File & Commit
+### 2. show commit differences
 ![show commit differences](images/diff.png)
